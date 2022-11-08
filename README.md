@@ -8,7 +8,7 @@
 <h5> Um Bistrô é um ambiente que serve café e refeiçoẽs, agilizando o máximo a adaptabilidade e utilidade do encontro, conta com serviço de localização, para que as rotas diárias não sejam alteradas.</h5>
 
 <ul>
-  <tr> - O que será preciso nesse site?</tr>
+  <tr> <strong>- O que será preciso nesse site?</strong></tr>
   <tr>
       <li>Chat</li>
       <li>Landing Page para login e cadastro</li>
