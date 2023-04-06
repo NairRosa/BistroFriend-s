@@ -1,6 +1,6 @@
 # Bistrô-Friend-s
 
-<strong>Projetinho pessoal</strong>
+<strong>Projeto pessoal</strong>
 
 
 <p> A ideia original é criar um site de relacionamento entre amigos, onde seja possivél e mais viavél marcar Brunch's e rolês durante a correria da semana, tornando assim, as relaçoẽs mais sólidas, e diminuindo a sensação de solidão.</p>
